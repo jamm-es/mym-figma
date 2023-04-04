@@ -318,6 +318,7 @@
 .analyticGroup {
   display: flex;
   gap: 65px;
+  margin-bottom: 20px;
 }
 
 .analytic {
